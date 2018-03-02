@@ -13,8 +13,8 @@ public class Main {
             System.out.println("Element " + i + ", typed value was " + myIntegers[i]);
         }
 
-
-
+        //step 4 to print for method to get average
+        System.out.println("The average is " + getAverage(myIntegers));
 
     }
 
