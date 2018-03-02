@@ -18,4 +18,16 @@ public class Main {
 
     }
 
+    //step 2 method
+    public static int[] getIntegers(int number) {
+        System.out.println("Enter " + number + " integer values.\r");  //\r makes for next line in printout for entering
+        int[] values = new int[number];
+
+        for (int i = 0; i < values.length; i++) {
+            values[i] = scanner.nextInt();
+        }
+
+        return values;
+    }
+
 }
