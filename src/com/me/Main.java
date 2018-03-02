@@ -43,3 +43,19 @@ public class Main {
 
 
 }
+
+//result
+/*
+Enter 5 integer values.
+3
+6
+7
+8
+9
+Element 0, typed value was 3
+Element 1, typed value was 6
+Element 2, typed value was 7
+Element 3, typed value was 8
+Element 4, typed value was 9
+The average is 6.6
+ */
